@@ -41,7 +41,16 @@ Built an end-to-end analytics and recommendation system using Python, MySQL, Pan
 ### Recommendation Example
 
 Customers who purchased "WHITE HANGING HEART T-LIGHT HOLDER" were also likely to purchase related home décor products.
+## Visualizations
 
+### Top Products by Revenue
+<img src="top_products.png" width="700">
+
+### Top Countries by Revenue
+<img src="top_countries.png" width="700">
+
+### Customer Segmentation
+<img src="customer_segments.png" width="500">
 ## Author
 
 vansh
